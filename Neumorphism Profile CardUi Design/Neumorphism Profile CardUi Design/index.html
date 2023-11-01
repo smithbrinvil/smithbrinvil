@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<!-- Created By CodingNepal - www.codingnepalweb.com -->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Neumorphism Profile Card | CodingNepal</title>
+     <!-- BOOTSTRAP LINK -->
+
+<script src="https://code.jquery.com/jquery-3.6.4.js"></script>
+<!--Bootstrap CDN link-->
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
+/>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js"></script>
+<script src="https://unpkg.com/boxicons@2.1.4/dist/boxicons.js"></script>
+<!--Cdn for the boxicons-->
+<link
+  href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
+  rel="stylesheet"
+/>
+
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="ajoutBio.css">
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+  
+</head>
+<body>
+  <div id="overlayAll"></div>
+  <div id="navbar">
+    <div class="container">
+   
+      <section class="contact-page-section">
+        <div class="container">
+            <div class="sec-title">
+              <p class="text-right" id="closeNavv" style="font-size: 1.3em; cursor: pointer;"><i class="bx bx-x"></i></p>
+                <div class="title">Contact Us</div>
+                <h2>Publier Un Article</h2>
+            </div>
+            <div class="inner-container" style="background-color: #fff; display:grid; place-items:center;">
+                <!--Form Column-->
+                <div class="form-column col-md-8 col-sm-12 col-xs-12">
+                    <div class="inner-column">
+
+                        <!--Contact Form-->
+                        <div class="contact-form">
+                            <form method="POST" action="addBioAdmin.php" id="contact-form" enctype="multipart/form-data">
+                                <div class="row clearfix">
+                                    <div class="form-group col-md-12 col-sm-12 co-xs-12">
+                                        <input type="text" name="nom" value="" placeholder="Firstname" required>
+                                    </div>
+                                    <div class="form-group col-md-12 col-sm-12 co-xs-12">
+                                        <input type="text" name="prenom" value="" placeholder="Lastname" required>
+                                    </div>
+                                    <div class="form-group col-md-12 col-sm-12 co-xs-12">
+                                        <input type="text" name="categorie" value="" placeholder="categorie" required>
+                                    </div>
+                                    <div class="form-group col-md-12 col-sm-12 co-xs-12">
+                                        <input type="file" name="profil" style="display: none;" value="" id="addPhoto">
+                                        <button type="button" id="pictureAdd" class="theme-btn w-100 btn-style-one">add picture</button>
+                                    </div>
+
+                                    <div class="form-group col-md-12 col-sm-12 co-xs-12">
+                                        <textarea name="biographie" placeholder="Massage"></textarea>
+                                    </div>
+                                    <div class="form-group col-md-12 col-sm-12 co-xs-12">
+                                        <button type="submit" class="theme-btn btn-style-one">Send Now</button>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                        <!--End Contact Form-->
+
+                    </div>
+                </div>
+
+
+
+            </div>
+        </div>
+       </section>
+    </div>
+  </div>
+  <div id="navbarBio">
+    <div class="container">
+   
+      <section class="contact-page-section">
+        <div class="container">
+            <div class="sec-title">
+              <p class="text-right" id="closeNavBio" style="font-size: 1.3em; cursor: pointer;"><i class="bx bx-x"></i></p>
+                <div class="title">Contact Us</div>
+                <h2>Publier Une Biography</h2>
+            </div>
+            <div class="inner-container" style="background-color: #fff; display:grid; place-items:center;">
+                <!--Form Column-->
+                <div class="form-column col-md-8 col-sm-12 col-xs-12">
+                    <div class="inner-column">
+
+                        <!--Contact Form-->
+                        <div class="contact-form">
+                            <form method="POST" action="addBioAdmin.php" id="contact-form" enctype="multipart/form-data">
+                                <div class="row clearfix">
+                                    <div class="form-group col-md-12 col-sm-12 co-xs-12">
+                                        <input type="text" name="nom" value="" placeholder="Firstname" required>
+                                    </div>
+                                    <div class="form-group col-md-12 col-sm-12 co-xs-12">
+                                        <input type="text" name="prenom" value="" placeholder="Lastname" required>
+                                    </div>
+                                    <div class="form-group col-md-12 col-sm-12 co-xs-12">
+                                        <input type="text" name="categorie" value="" placeholder="categorie" required>
+                                    </div>
+                                    <div class="form-group col-md-12 col-sm-12 co-xs-12">
+                                        <input type="file" name="profil" style="display: none;" value="" id="addPhoto">
+                                        <button type="button" id="pictureAdd" class="theme-btn w-100 btn-style-one">add picture</button>
+                                    </div>
+
+                                    <div class="form-group col-md-12 col-sm-12 co-xs-12">
+                                        <textarea name="biographie" placeholder="Massage"></textarea>
+                                    </div>
+                                    <div class="form-group col-md-12 col-sm-12 co-xs-12">
+                                        <button type="submit" class="theme-btn btn-style-one">Send Now</button>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                        <!--End Contact Form-->
+
+                    </div>
+                </div>
+
+
+
+            </div>
+        </div>
+       </section>
+    </div>
+  </div>
+  <div class="container">
+     <div class="wrapper">
+    <div class="img-area">
+      <div class="inner-area">
+        <img src="https://ciamakeup.com/demo/wikipeyia/images/carelPedre.jpg" alt="">
+      </div>
+    </div>
+    <div class="icon arrow"><i class="fas fa-arrow-left"></i></div>
+    <div class="icon dots"><i class="fas fa-ellipsis-v"></i></div>
+    <div class="name">Wikipeyia</div>
+    <div class="about">Designer & Developer</div>
+    <div class="social-icons">
+      <a href="#" class="fb"><i class="bx bxl-facebook-circle"></i></a>
+      <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
+      <a href="#" class="insta"><i class="bx bxl-instagram"></i></a>
+      <a href="#" class="yt"><i class="bx bxl-youtube"></i></a>
+    </div>
+    <div class="buttons">
+      <button id="postArticle">Post a new article</button>
+      <button id="postBio">Post a new biography</button>
+    </div>
+    <div class="social-share">
+      <div class="row d-block" style="text-align: center;">
+        <i class="far fa-heart"></i>
+        <i class="icon-2 fas fa-heart"></i>
+        <span>20.4k</span><br/>
+        <span>Article published</span>
+      </div>
+      <div class="row d-block" style="text-align: center;">
+        <i class="fas fa-share"></i>
+        <span>12.8k</span> <br/>
+        <span>Bio published</span>
+      </div>
+    </div>
+  </div>
+  </div>
+ 
+<script>
+  
+  var selectArticle = document.getElementById("postArticle");
+  var selectNav = document.getElementById("navbar");
+  var cNav = document.getElementById("closeNavv");
+  selectArticle.addEventListener("click",function(){
+    selectNav.style.transform = "translateX(0)";
+  });
+  cNav.addEventListener("click",function(){
+    selectNav.style.transform = "translateX(-500px)";
+  });
+
+  var selectBio = document.getElementById("postBio");
+  var selectNavBio = document.getElementById("navbarBio");
+  var cBio = document.getElementById("closeNavBio");
+  selectBio.addEventListener("click",function(){
+    selectNavBio.style.transform = "translateX(0)";
+  });
+  cBio.addEventListener("click",function(){
+    selectNavBio.style.transform = "translateX(-500px)";
+  });
+  
+</script>
+</body>
+</html>
