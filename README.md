@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Wikipeyia
+- 👋 Hi, I’m Wood-smith BRINVIL
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning HTML, CSS , Javascript, PHP & MySqL
 - 💞️ I’m looking to collaborate on any programming project that includes the above knowlege
-- 📫 How to reach me search wikipeyia on all platforms or mail me at wikipeyia@gmail.com
+- 📫 How to reach me search wikipeyia on all platforms or mail me at brinvilsmith@gmail.com
