@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Wood-smith BRINVIL
 - 👀 I’m interested in programming
 - 💞️ I’m looking to collaborate on any programming project that includes the above knowlege
-- 📫 How to reach me search wikipeyia on all platforms or mail me at brinvilsmith@gmail.com
+- 📫 How to reach me search smithbrinvil on all platforms or mail me at brinvilsmith@gmail.com
