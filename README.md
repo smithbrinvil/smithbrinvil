@@ -53,9 +53,9 @@ Employment and professional services platform in Haiti.
 **Recognition:** Ranked among the 5 most promising Haitian startups in 2024 by Banj  
 **Impact:** Improving access to jobs and fostering inclusive digital transformation  
 
-### **Sunchic Branding**
-Luxury minimalist branding for a beauty and accessories brand.  
-**Highlights:** Logo, social media assets, packaging, and modern aesthetics  
+### **JolieDore Branding**
+Luxury minimalist branding for a wellness and Spa brand.  
+**Highlights:** Logo, Website, social media assets, packaging, and modern aesthetics  
 
 ### **ciamakeup.com**
 E-commerce website for cosmetics.  
