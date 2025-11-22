@@ -1,6 +1,6 @@
 <div align="start">
 
-# 👋 Hi, I’m Wood Smith Brinvil
+# Hi, I’m Wood Smith Brinvil
 
 **Front-end Developer | Designer | Digital Marketer | Entrepreneur**  
 
