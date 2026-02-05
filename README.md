@@ -1,54 +1,123 @@
 <div align="start">
 
-# Wood Smith Brinvil
-**Front-end Developer | UI/UX Designer | Marketing Strategist** 📍 Port-au-Prince, Haiti  
+# Hi, I’m Wood Smith Brinvil
+
+**Front-end Developer | Designer | Digital Marketer | Entrepreneur**  
+
+📍 Port-au-Prince, Haïti  
 📧 brinvilsmith@gmail.com | 📱 +509 3444 0673  
+🌐 Portfolio: [smithbrinvil.com](#)  
 
 </div>
 
 ---
 
 ## 🖌 About Me
-[span_3](start_span)I am a Front-end Developer and UI/UX Designer specializing in high-performance interfaces designed to maximize user engagement and conversion[span_3](end_span). [span_4](start_span)My approach merges technical development with a business vision, ensuring digital products are strategically aligned with growth objectives[span_4](end_span).
+
+I’m a **multidisciplinary Haitian entrepreneur** dedicated to creating **concrete digital solutions** that address local challenges. I combine **design, development, and marketing** to deliver projects that are impactful, accessible, and rooted in Haitian realities.  
+
+💡 I believe in **clarity, simplicity, and aesthetic efficiency**, turning complex problems into intuitive solutions while fostering local innovation.  
 
 ---
 
-## 💻 Technical Stack
+## 💻 Skills
 
-- **[span_5](start_span)Frameworks:** React.js, Next.js, **React Native**, **Expo**[span_5](end_span).
-- **[span_6](start_span)Styling:** **Tailwind CSS**, CSS Modules[span_6](end_span).
-- **Languages:** JavaScript, TypeScript.
-- **[span_7](start_span)Design:** Figma, Adobe Suite, UI/UX Design, Branding[span_7](end_span).
-- **[span_8](start_span)[span_9](start_span)Growth:** Strategic Marketing, Google Analytics 4 (GA4), Client Acquisition[span_8](end_span)[span_9](end_span).
+<div align="start">
+<img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+<img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white">
+</div>
+
+**Other Skills:** UX/UI Design, Branding, Social Media Strategy, SEO, Agile Workflow, Git & GitHub, ESLint & Prettier  
 
 ---
 
-## 🚀 Key Projects (Corrected)
+## 🚀 Selected Projects
+
+### **Wikipeyia**
+Independent media platform amplifying Haitian youth voices and promoting local talent.  
+**Tech & Approach:** React.js, Tailwind CSS, editorial design, modern UX  
+**Impact:** Strengthening media diversity and community engagement  
+
+### **JuksGraphic**
+Creative agency for web development, branding, graphic design, and digital marketing.  
+**Role:** Co-founder & Marketing Director  
+**Impact:** Helping brands and entrepreneurs craft strong visual identities and online presence  
 
 ### **Jwennjob**
-[span_10](start_span)Co-founder and Developer of a platform structuring the Haitian job market[span_10](end_span).
-- **[span_11](start_span)Tech:** Front-end development impacting thousands of candidates monthly[span_11](end_span).
+Employment and professional services platform in Haiti.  
+**Features:** Automated talent matching, resume generator, advanced search engine  
+**Recognition:** Ranked among the 5 most promising Haitian startups in 2024 by Banj  
+**Impact:** Improving access to jobs and fostering inclusive digital transformation  
 
-### **Cherubin On The Air**
-[span_12](start_span)Official digital platform for a renowned Haitian journalist[span_12](end_span).
-- **[span_13](start_span)Tech:** Custom CMS with a multidisciplinary admin panel and granular access control for journalists[span_13](end_span).
+### **JolieDore Branding**
+Luxury minimalist branding for a wellness and Spa brand.  
+**Highlights:** Logo, Website, social media assets, packaging, and modern aesthetics  
 
-### **JolieDore Aesthetic Wellness & Spa**
-[span_14](start_span)Full digital identity and front-end integration[span_14](end_span).
-- **[span_15](start_span)Focus:** Professional logo design based on a lotus variation and high-performance UX[span_15](end_span).
+### **ciamakeup.com**
+E-commerce website for cosmetics.  
+**Tech:** Responsive web design, branding, and product showcase  
+**Impact:** Streamlined online shopping experience for beauty customers  
 
-### **Cia Makeup Academy**
-[span_16](start_span)Web application for perfecting the art of makeup[span_16](end_span).
-- **[span_17](start_span)Role:** Lead Developer and Designer[span_17](end_span).
+### **cherubinontheair.com**
+Media/podcast platform.  
+**Tech:** Web development, multimedia integration  
+**Impact:** Accessible platform for local content creators and listeners  
 
-### **Wiki Peyi A**
-[span_18](start_span)Digital media platform dedicated to culture and information[span_18](end_span).
+### **endura-male.com**
+Healthcare & wellness platform.  
+**Tech:** Website development, responsive UX  
+**Impact:** Promoting wellness solutions with accessible digital resources  
 
-### **Enduramale**
-[span_19](start_span)Branding and advertising campaigns for a supplement brand[span_19](end_span).
+### **hubconnectht.com**
+Business networking & service platform.  
+**Tech:** Full-stack development, modern UI  
+**Impact:** Connecting local businesses and entrepreneurs efficiently  
+
+### **aonerenovationpro.com**
+Renovation services website.  
+**Tech:** Front-end development, branding, and service presentation  
+**Impact:** Professional online presence for service-based business  
+
+### **Portfolio Website**
+Personal portfolio showcasing projects, branding, and web development work.  
+**Tech:** React.js, Tailwind CSS, Vite, responsive design  
 
 ---
 
-## 📈 Recent Achievements
-- **[span_20](start_span)Google Analytics 4 Certified:** Advanced data analysis for digital product optimization[span_20](end_span).
-- **[span_21](start_span)Strategic Marketing (KAW Academy):** Expertise in segmentation, positioning, and market strategy[span_21](end_span).
+## 🌐 Connect with Me
+
+<div align="start">
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+</div>
+
+---
+
+## ⚡ How I Work
+
+1. **Analyze & Understand** – Assess project goals, local needs, and challenges  
+2. **Design & Prototype** – Create intuitive and visually compelling solutions  
+3. **Develop & Iterate** – Implement responsive, maintainable code  
+4. **Refine & Optimize** – Continuously improve design, performance, and UX  
+
+---
+
+## 🌟 Philosophy
+
+I don’t just build tools—I **contribute to ecosystems**.  
+I represent a generation of Haitians who **take action**, using technology, design, and marketing to serve social causes.  
+My work is **long-term**, rooted in Haitian reality, focused on **inclusive innovation and empowerment**.  
+
+---
+
+<div align="start">
+
+> “I strive to make every solution smarter, simpler, and more beautiful than it was before.”
+
+</div>
